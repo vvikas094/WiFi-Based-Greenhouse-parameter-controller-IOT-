@@ -1,9 +1,9 @@
 # WiFi-Based-Greenhouse-parameter-controller-IoT-
 
 Source Code
-#include<reg51.h>
-#define LCD_DATA	P1
-#define ADC_DATA	P0
+/#include<reg51.h>
+/#define LCD_DATA	P1
+/#define ADC_DATA	P0
 
 sbit lights=P2^4;				
 sbit soilmtr=P2^5;				//////////// Pins to Control Relays and Motors 

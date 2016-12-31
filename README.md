@@ -1,5 +1,17 @@
 # WiFi-Based-Greenhouse-parameter-controller-IoT-
 
+
+##Developed an Internet of Things (IoT) concept to develop cost-effective automatic greenhouse weather control system using Wi-Fi.
+
+
+1) WIFI based Greenhouse parameters Monitoring and Control project is used to measure the parameters like Temperature, Humidity, Light and Soil Moisture and transmits these parameters using WIFI to various stations.
+
+2) Temperature, Humidity, Light and Soil Moisture are sensed by their respective sensors.
+
+3) Using a WIFI module, the Microcontroller transmits the sensor data which can be received using a Laptop or an Android application.
+
+
+
 ## Source Code
 
 *#*include*<reg51.h>*
